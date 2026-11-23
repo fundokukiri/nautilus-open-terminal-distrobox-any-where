@@ -7,10 +7,6 @@ Distrobox (your running container)** → your terminal opens and runs:
 <terminal> <args> /usr/bin/distrobox enter <running container>
 ```
 
-Inspired by [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal),
-but written in Python (nautilus-python): no compiling, no gsettings, no hard
-dependency on a single terminal, and wired straight to distrobox.
-
 ## Features
 
 - Context menu entry for a selected folder/file, and for empty space.
